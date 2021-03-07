@@ -237,7 +237,7 @@ Partial Class Form1
         Me.Controls.Add(Me.GrpOne)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Adaline Inc."
+        Me.Text = "'"
         Me.GrpOne.ResumeLayout(False)
         Me.GrpOne.PerformLayout()
         Me.GrpTwo.ResumeLayout(False)
